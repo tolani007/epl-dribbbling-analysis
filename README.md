@@ -9,7 +9,13 @@ To add another layer of analysis I will be highlighting the standard deviation o
 
 What qualifies a player as a "top" dribbler?
 
-Opinion: I think the main metrics to use to get this answer is the dribble success percentage, number of successful dribbles and dribbles attempted.
+Opinion: I think the main metrics to use to get this answer would be the dribble success percentage, number of successful dribbles and dribbles attempted as well as the averages for this metrics for more context on how well players are dribbling in comparison to the average of the population.
+
+Is the best dribbler also the most efficient dribbler? 
+
+Upon brainstorming I have decided to separate the "best" dribblers from the most "efficient" dribblers.
+The number of successful dribbles would determine who would be the best dribbler.
+The successful dribbles percentage would define who would be the most efficienct dribbler.
 
 I will be analyzing "tackled on" metrics to reaffirm insights in initial analysis.
 
