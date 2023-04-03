@@ -1,4 +1,4 @@
-# epl-dribbbling-analysis
+# epl-dribbling-analysis
 This is a short data story giving insights into the top and most efficient dribblers as of March 31st in the 22/23 season of the English premier league
 
 Data was collected as of Frida March 31st, 2023.
