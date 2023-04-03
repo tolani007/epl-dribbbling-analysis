@@ -14,4 +14,4 @@ I will be analyzing "tackled on" metrics to reaffirm insights in initial analysi
 
 Standard deviation table of metrics being explored:
 
-<img width="323" alt="Screenshot 2023-04-03 at 12 38 46 AM" src="https://user-images.githubusercontent.com/34937584/229413712-fe6d21f2-29c5-4375-bd68-842df80d519e.png">
+<img width="479" alt="Screenshot 2023-04-03 at 12 54 31 AM" src="https://user-images.githubusercontent.com/34937584/229415015-a7cc8dfc-af84-4070-abde-2647125dd07e.png">
