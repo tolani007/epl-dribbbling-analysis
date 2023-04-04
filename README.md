@@ -22,3 +22,5 @@ I will be analyzing "tackled on" metrics to reaffirm insights in initial analysi
 Standard deviation table of metrics being explored:
 
 <img width="479" alt="Screenshot 2023-04-03 at 12 54 31 AM" src="https://user-images.githubusercontent.com/34937584/229415015-a7cc8dfc-af84-4070-abde-2647125dd07e.png">
+
+<img width="770" alt="who is the best dribbler chart" src="https://user-images.githubusercontent.com/34937584/229654062-625297b9-9d78-477d-87af-64f02dc766ed.png">
