@@ -40,14 +40,14 @@ Gabriel Martinelli(21) is 3rd with 42 successful dribbles from 97 attempts.
 
 Other notable top dribblers under the age of 24 include: 
 
-Michael Olise(21) with 38 successful dribbles from 94 attempts 
+Michael Olise(21) with 38 successful dribbles from 94 attempts with 2 standard deviations above the average successful dribbles
 
-Eberechi Eze(24) with 42 successful dribbles from 77 attempts 
+Eberechi Eze(24) with 42 successful dribbles from 77 attempts with 2.4 standard deviations above the average successful dribbles
 
-Brenden Aaronson(22) with 29 successful dribbles from 85 attempts 
+Brenden Aaronson(22) with 29 successful dribbles from 85 attempts with 1 standard deviations above the average successful dribbles
 
-Marcus Tavernier(24) with 33 successful dribbles from 77 attempts
+Marcus Tavernier(24) with 33 successful dribbles from 77 attempts with 1.1 standard deviations above the average successful dribbles
 
-Morgan Gibbs-White with 32 successful dribbles from 71 attempts
+Morgan Gibbs-White with 32 successful dribbles from 71 attempts with 1.4 standard deviations above the average successful dribbles
 
 
