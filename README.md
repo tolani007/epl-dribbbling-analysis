@@ -6,6 +6,7 @@ Data was collected as of Frida March 31st, 2023.
 I analyzed only players with at least the average number of appearances in form of minutes accrued.
 I also analyzed only players with at least the average number of dribbles attempted.
 In other words, the sample we would be evaluating would be performing better than the average dribbler on metrics of number of appearances and number of dribbles attempted.
+
 To add another layer of analysis I will be highlighting the standard deviation of some metric values of some players to try to contextualize how well they are performing in dribbles compared to the average of said metrics.
 
 
