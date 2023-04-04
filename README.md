@@ -48,5 +48,6 @@ Brenden Aaronson(22) with 29 successful dribbles from 85 attempts
 
 Marcus Tavernier(24) with 33 successful dribbles from 77 attempts
 
+Morgan Gibbs-White
 
 
