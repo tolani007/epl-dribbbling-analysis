@@ -32,8 +32,9 @@ The general trend expressed in the chart above is players that attempt more drib
 
 Main takeaways:
 
-Wilfrid Zaha is the best dribbler in the english premier league as of when this data was collected with 45 successful dribbles from 118 attempts.
+Wilfrid Zaha(30) is the best dribbler in the english premier league as of when this data was collected with 45 successful dribbles from 118 attempts.
 
-Bukayo Saka comes in second with 44 successful dribbles from 122 attempts.
+Bukayo Saka(21) comes in second with 44 successful dribbles from 122 attempts.
 
-Gabriel Martinelli is 3rd with 42 successful dribbles from 97 attempts.
+Gabriel Martinelli(21) is 3rd with 42 successful dribbles from 97 attempts.
+
