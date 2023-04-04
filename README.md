@@ -50,4 +50,7 @@ Marcus Tavernier(24) with 33 successful dribbles from 77 attempts with 1.1 stand
 
 Morgan Gibbs-White with 32 successful dribbles from 71 attempts with 1.4 standard deviations above the average successful dribbles
 
+<img width="742" alt="Screenshot 2023-04-04 at 12 39 38 AM" src="https://user-images.githubusercontent.com/34937584/229688582-dbbe589c-6045-4707-98a3-5c392b684862.png">
+
+
 
